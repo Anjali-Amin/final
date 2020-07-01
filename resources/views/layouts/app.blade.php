@@ -29,7 +29,7 @@
   <body>
     
 
-  
+  @yield('content')
   
 
   <!-- loader -->

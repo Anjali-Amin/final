@@ -26,3 +26,5 @@ Route::get('/viewwish', function () {
 Route::get('/submitwish', function () {
     return view('submitwish');
 });
+
+Route::resource('/statewish','StatewishController');
