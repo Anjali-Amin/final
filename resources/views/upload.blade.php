@@ -1,0 +1,41 @@
+@extends('layouts.app')
+<html>
+    <head>
+        <style>
+        </style>
+    </head>
+    <body>
+        @include('include.navbar')
+        <br><br><br>
+        udwibgfppppppppppppppppppppppppppppppppppppppr<br>
+        sjvfuoeeeeeeeeeeeeeeeeeeeb<br>
+        <br>
+        boefiw
+        <br>
+        <br><br><br>
+        udwibgfppppppppppppppppppppppppppppppppppppppr<br>
+        sjvfuoeeeeeeeeeeeeeeeeeeeb<br>
+        <br>
+        boefiw
+        <br>
+        <br><br><br>
+        udwibgfppppppppppppppppppppppppppppppppppppppr<br>
+        sjvfuoeeeeeeeeeeeeeeeeeeeb<br>
+        <br>
+        boefiw
+        <br>
+        <br><br><br>
+        udwibgfppppppppppppppppppppppppppppppppppppppr<br>
+        sjvfuoeeeeeeeeeeeeeeeeeeeb<br>
+        <br>
+        boefiw
+        <br>
+        <br><br><br>
+        udwibgfppppppppppppppppppppppppppppppppppppppr<br>
+        sjvfuoeeeeeeeeeeeeeeeeeeeb<br>
+        <br>
+        boefiw
+        <br>
+        @include('include.footer')
+    </body>
+</html>
