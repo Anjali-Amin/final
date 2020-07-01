@@ -18,3 +18,11 @@ Route::get('/', function () {
 Route::get('/upload', function () {
     return view('upload');
 });
+
+Route::get('/viewwish', function () {
+    return view('viewwish');
+});
+
+Route::get('/submitwish', function () {
+    return view('submitwish');
+});
