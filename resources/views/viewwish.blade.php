@@ -10,7 +10,7 @@
                <input type="text" name="search" id="search" class="form-control" placeholder="Search using Favourable City or Location" />
               </div>
               <div class="table-responsive">
-               <h3 align="center">Total Number of wishes : <span id="total_records"></span></h3>
+               <h3 align="center">Total Number of wishes submitted: <span id="total_records"></span></h3>
                <table class="table table-striped table-bordered">
                 <thead>
                  <tr>
