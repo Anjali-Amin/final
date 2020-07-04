@@ -8,14 +8,18 @@
         @include('include.navbar')
         <br><br><br>
         <h1>Your Wish is Our Command!!  :) </h1>
-        <table>
-            <tr>
-            <th>
-                Photos
-            </th>
-            <th>Date</th>
-            </tr>
-        </table>
+        <table class="table table-striped table-bordered">
+            <thead>
+             <tr>
+              <th>Location</th>
+              <th>City</th>
+              <th>Description</th>
+              <th>Price</th>
+              <th>Feedback</th>
+             </tr>
+            </thead>
+            <tbody>
+           </table>
         @include('include.footer')
     </body>
 </html>

@@ -19,16 +19,12 @@ Route::get('/upload', function () {
     return view('upload');
 });
 
-Route::get('/viewwish', function () {
-    return view('viewwish');
-});
-
 Route::get('/submitwish', function () {
     return view('submitwish');
 });
 
 Route::resource('/statewish','StatewishController');
 
-// Route::get('/viewwish', 'ViewWish@index');
+ Route::get('/viewwish', 'ViewWish@index');
 
-// Route::get('/viewwish/action', 'ViewWish@action')->name('viewwish.action');
+ Route::get('/viewwish/action', 'ViewWish@action')->name('viewwish.action');
